@@ -1,0 +1,17 @@
+#box {
+    
+    width: 500px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0 0 10px #d1d9e6;
+    border-radius: 5px;
+}
+textarea{
+    width: 100%;
+}
+#post_comment{
+    width: 20%;
+}
+#delete_comment{
+    width: 20%;
+}
